@@ -1,4 +1,4 @@
-# DIP-tutorial-with-opencv
+# Digital Image Processing tutorial with OpenCV
 
 <!-- PROJECT LOGO -->
 <br />
