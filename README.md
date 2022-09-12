@@ -1,7 +1,5 @@
 # DIP-tutorial-with-opencv
 
-
-<h3 align="center">Digital Image Processing</h3>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
