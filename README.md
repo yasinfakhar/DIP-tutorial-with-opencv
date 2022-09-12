@@ -1,7 +1,5 @@
 # DIP-tutorial-with-opencv
 
-This repository contains slides about DIP and OpenCV tutorial
-
 
 <h3 align="center">Digital Image Processing</h3>
 <!-- PROJECT LOGO -->
@@ -11,3 +9,16 @@ This repository contains slides about DIP and OpenCV tutorial
     <img src="logo.png" alt="Logo" >
   </a>
 </div>
+<br>
+
+This repository contains slides about DIP and OpenCV tutorial
+<br>
+
+Codes and projects about course 
+<hr>
+* <a href=""><strong>Chapter 1</strong></a>
+<br>
+* <a href=""><strong>Chapter 2</strong></a>
+<br>
+* <a href="https://drive.google.com/drive/folders/1Y02pW49EIn81OrFxff9JK6YaAAoFujd5?usp=sharing"><strong>Chapter 3</strong></a>
+<br>
