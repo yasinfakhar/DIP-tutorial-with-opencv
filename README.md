@@ -19,6 +19,6 @@ Codes and projects about course
 <br>
 * <a href="https://drive.google.com/drive/folders/1Y02pW49EIn81OrFxff9JK6YaAAoFujd5?usp=sharing"><strong>Chapter 3 (Intensity Transformations and Spatial Filtering)</strong></a>
 <br>
-* <a href="https://drive.google.com/drive/folders/1R9zHGodGnK630JLfFnQsLL1L7MBOEWlT?usp=sharing"><strong>Chapter 4 (Frequency domain Filtering)</strong></a>
+* <a href="https://drive.google.com/drive/folders/1R9zHGodGnK630JLfFnQsLL1L7MBOEWlT?usp=sharing"><strong>Chapter 4 and 7 (Frequency domain Filtering, WaveLet and other transformation)</strong></a>
 <br>
 
