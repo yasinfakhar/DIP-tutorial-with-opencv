@@ -15,7 +15,7 @@ Codes and projects about course
 <hr>
 * <a href="https://drive.google.com/drive/folders/1sSjMNDSX2ipWzHY3zaG7zcFds_77vJ71?usp=sharing"><strong>Introduction to OpenCV</strong></a>
 <br>
-* <a href=""><strong>Chapter 2</strong></a>
+* <a href=""><strong>Chapter 2 -- comming soon :)</strong></a>
 <br>
 * <a href="https://drive.google.com/drive/folders/1Y02pW49EIn81OrFxff9JK6YaAAoFujd5?usp=sharing"><strong>Chapter 3 (Intensity Transformations and Spatial Filtering)</strong></a>
 <br>
